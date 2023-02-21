@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamim Hossain</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimhossain11&label=Profile%20views&color=0e75b6&style=flat" alt="tamimhossain11" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://tamimhossain11.github.io/portfolio/](https://tamimhossain11.github.io/portfolio/)
 
 - 📫 How to reach me **amdtamim3@gmail.com**
